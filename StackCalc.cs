@@ -6,6 +6,8 @@ namespace StackCalc
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Stack Calculator\n");
+            
             while (true)
             {
                 Console.Write("Enter item amount: ");
